@@ -2,7 +2,7 @@
 
 📕 [English Version](./README_en.md)
 
-基于 [Clash for Android]()，为安卓设备设计的 [Clash](https://github.com/Dreamacro/clash) GUI，使用 Material You 设计语言。
+基于 [Clash for Android]()，为安卓设备设计的 [Clash]() GUI，使用 Material You 设计语言。
 
 可在 [Releases](https://github.com/Yos-X/ClashYou/releases) 获取最新发布版本，也可在 [Actions](https://github.com/Yos-X/ClashYou/actions) 获取 CI 版（需要登录，感谢 [@淡い夏](https://github.com/lightsummer233)）
 
