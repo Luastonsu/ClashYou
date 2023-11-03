@@ -23,7 +23,7 @@ Clash You is based on **the final version** of Clash for Android, which has ente
 
 Therefore, the old core used by Clash You may **not support** some features of the new Clash core.
 
-For **the newer features** of Clash, consider the ????? project being developed by the original author ?????.
+For **the newer features** of Clash, consider the ????? project being developed by ~the original author~ ?????.
 
 Telegram Channel：?????
 
