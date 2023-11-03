@@ -2,7 +2,7 @@
 
 📕 [English Version](./README_en.md)
 
-基于 [Clash for Android](https://github.com/Kr328/ClashForAndroid)，为安卓设备设计的 [Clash](https://github.com/Dreamacro/clash) GUI，使用 Material You 设计语言。
+基于 [Clash for Android]()，为安卓设备设计的 [Clash](https://github.com/Dreamacro/clash) GUI，使用 Material You 设计语言。
 
 可在 [Releases](https://github.com/Yos-X/ClashYou/releases) 获取最新发布版本，也可在 [Actions](https://github.com/Yos-X/ClashYou/actions) 获取 CI 版（需要登录，感谢 [@淡い夏](https://github.com/lightsummer233)）
 
@@ -18,13 +18,13 @@ Clash You 基于的 Clash for Android **已是最终版本**，进入**长久不
 
 因此 Clash You 使用的旧内核将可能**不支持**新 Clash 内核的部分特性。
 
-若想使用 Clash 的**较新特性**，可以考虑原作者 [@Kr238](https://github.com/Kr328) 正在开发的 Clash Multiplatform 项目。
+若想使用 Clash 的**较新特性**，可以考虑~原作者~ ？？？？？ 正在开发的 ？？？？？ 项目。
 
-Telegram Channel：[Clash Multiplatform](https://t.me/+uCUxZwHNjZxlYThl)
+Telegram Channel： ？？？？？
 
 ### 特性
 
-完整 [Clash](https://github.com/Dreamacro/clash) 特性实现
+完整 [Clash]() 特性实现
 
 ### 运行环境要求
 
