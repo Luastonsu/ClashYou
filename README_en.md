@@ -2,8 +2,8 @@
 
 **⚠ This page is translated by GPT 4.**
 
-Based on [Clash for Android](https://github.com/Kr328/ClashForAndroid),
-a [Clash](https://github.com/Dreamacro/clash) GUI designed for Android devices, using the Material
+Based on [Clash for Android](),
+a [Clash]() GUI designed for Android devices, using the Material
 You design language.
 
 The latest Release version can be obtained from
@@ -23,13 +23,13 @@ Clash You is based on **the final version** of Clash for Android, which has ente
 
 Therefore, the old core used by Clash You may **not support** some features of the new Clash core.
 
-For **the newer features** of Clash, consider the Clash Multiplatform project being developed by the original author [@Kr238](https://github.com/Kr328).
+For **the newer features** of Clash, consider the ????? project being developed by the original author ?????.
 
-Telegram Channel：[Clash Multiplatform](https://t.me/+uCUxZwHNjZxlYThl)
+Telegram Channel：?????
 
 ### Feature
 
-Fully feature of [Clash](https://github.com/Dreamacro/clash)
+Fully feature of [Clash]()
 
 ### Runtime Requirements
 
